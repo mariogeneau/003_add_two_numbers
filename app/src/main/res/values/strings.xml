@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ADD 2 NUMBERS</string>
+    <string name="first_number">FIRST NUMBER</string>
+    <string name="second_number">SECOND NUMBER</string>
+    <string name="add">ADD</string>
+    <string name="result">RESULT</string>
+</resources>
